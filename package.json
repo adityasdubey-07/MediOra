@@ -1,0 +1,18 @@
+{
+  "name": "connected-care-website",
+  "version": "1.0.0",
+  "description": "The public homepage, patient records view, doctor workspace and hospital-administration view are frontend pages. Secure sign-in, backend storage, patient consent, doctor verification, QR access, medical-record sharing and prescription saving are not connected yet.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "setup:admin": "node setup-admin.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "qrcode": "^1.5.4"
+  }
+}
