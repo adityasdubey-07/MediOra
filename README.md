@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Connected Care Website
 
 ## Current status
@@ -13,3 +14,7 @@ Double-click `start-website.bat` to start the site on `http://127.0.0.1:8000`. K
 ## Important security limitation
 
 Do not enter or upload real medical information. Patient records and PDFs cannot currently be securely saved or shared. The visible service-status notices should remain until authentication, secure file storage, authorization, consent and audit logging are connected and tested.
+=======
+# MediOra
+MediOra is a smart healthcare continuity platform that unifies patient medical records, tracks prescriptions, and enables secure, permission-based sharing of medical history between patients and authorized doctors across healthcare providers.
+>>>>>>> 16b1c99c9b8734ffe57381b355dafcb74b7cb00c
